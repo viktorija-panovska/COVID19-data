@@ -1,0 +1,15 @@
+vaccine_id,vaccine_name,manufacturer,origin,technology,storage_temp
+1,Comirnaty,"BioNTech , Pfizer , Fosun Pharma","Spojené státy americké, Německo","genová, RNA vakcína, lipid. nanočástice",−70 °C
+2,Spikevax,"Moderna , NIAID, BARDA, CEPI",Spojené státy americké,"genová, RNA vakcína, lipid. nanočástice",−20 °C
+3,"Vaxzevria, Covishield","Oxfordská univerzita , AstraZeneca , CEPI",Spojené království,"rekombinantní, modif. šimpanzí adenovirus ChAdOx1",+2 až +8 °C
+4,Gam-COVID-Vac,Gamalejův institut,Rusko,"rekombinantní, lidský adenovirus Ad26 a Ad5",+2 až +8 °C
+5,CoronaVac,Sinovac,Čína,"chemicky inaktivovaný kompletní virus SARS-CoV-2, hydroxid hlinitý jako adjuvans",+2 až +8 °C
+6,BBIBP-CorV  Sinopharm,"Pekingský institut biologických produktů, Wuchanský institut biologických produktů",Čína,"chemicky inaktivovaný kompletní virus SARS-CoV-2, hydroxid hlinitý jako adjuvans",+2 až +8 °C
+7,Covaxin,"Bharat Biotech, Indická rada lékařského výzkumu",Indie,"chemicky inaktivovaný kompletní virus SARS-CoV-2, adjuvovaná",+2 až +8 °C
+8,Convidicea,"CanSino Biologics, Pekingský biotechnologický institut Akademie vojenských lékařských věd",Čína,"rekombinantní, lidský adenovirus Ad5",
+9,ЭпиВакКорона,Vector,Rusko,peptidová vakcína,
+10,Johnson & Johnson,Janssen Pharmaceuticals,Spojené státy americké,"rekombinantní, lidský adenovirus Ad26",+2 až +8 °C
+11,CoviVac,Výzkumné centrum Michaila Čumakova,Rusko,chemicky inaktivovaný kompletní virus SARS-CoV-2,
+12,RBD-Dimer,Anhui Zhifei Longcom Biopharmaceutical Co. Ltd.,Čína,peptidová vakcína,2–8 °C
+13,WIBP-CorV,Sinopharm,Čína,chemicky inaktivovaný kompletní virus SARS-CoV-2,
+14,QazCovid-in,Výzkumný ústav pro problémy biologické bezpečnosti,Kazachstán,chemicky inaktivovaný kompletní virus SARS-CoV-2,

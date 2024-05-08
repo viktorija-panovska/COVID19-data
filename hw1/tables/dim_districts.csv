@@ -1,0 +1,78 @@
+district_id,district_name,district_code,region_name,region_code,population
+1,Hlavní město Praha,CZ0100,Hlavní město Praha,CZ010,1275406.0
+2,Benešov,CZ0201,Středočeský kraj,CZ020,99323.0
+3,Beroun,CZ0202,Středočeský kraj,CZ020,96624.0
+4,Kladno,CZ0203,Středočeský kraj,CZ020,164493.0
+5,Kolín,CZ0204,Středočeský kraj,CZ020,103894.0
+6,Kutná Hora,CZ0205,Středočeský kraj,CZ020,75683.0
+7,Mělník,CZ0206,Středočeský kraj,CZ020,109354.0
+8,Mladá Boleslav,CZ0207,Středočeský kraj,CZ020,127592.0
+9,Nymburk,CZ0208,Středočeský kraj,CZ020,101120.0
+10,Praha-východ,CZ0209,Středočeský kraj,CZ020,188384.0
+11,Praha-západ,CZ020A,Středočeský kraj,CZ020,151093.0
+12,Příbram,CZ020B,Středočeský kraj,CZ020,114366.0
+13,Rakovník,CZ020C,Středočeský kraj,CZ020,54898.0
+14,České Budějovice,CZ0311,Jihočeský kraj,CZ031,195533.0
+15,Český Krumlov,CZ0312,Jihočeský kraj,CZ031,60096.0
+16,Jindřichův Hradec,CZ0313,Jihočeský kraj,CZ031,89283.0
+17,Písek,CZ0314,Jihočeský kraj,CZ031,70769.0
+18,Prachatice,CZ0315,Jihočeský kraj,CZ031,50230.0
+19,Strakonice,CZ0316,Jihočeský kraj,CZ031,69773.0
+20,Tábor,CZ0317,Jihočeský kraj,CZ031,101363.0
+21,Domažlice,CZ0321,Plzeňský kraj,CZ032,54391.0
+22,Klatovy,CZ0322,Plzeňský kraj,CZ032,84614.0
+23,Plzeň-město,CZ0323,Plzeňský kraj,CZ032,188407.0
+24,Plzeň-jih,CZ0324,Plzeňský kraj,CZ032,68918.0
+25,Plzeň-sever,CZ0325,Plzeňský kraj,CZ032,80666.0
+26,Rokycany,CZ0326,Plzeňský kraj,CZ032,48770.0
+27,Tachov,CZ0327,Plzeňský kraj,CZ032,52941.0
+28,Cheb,CZ0411,Karlovarský kraj,CZ041,87958.0
+29,Karlovy Vary,CZ0412,Karlovarský kraj,CZ041,110052.0
+30,Sokolov,CZ0413,Karlovarský kraj,CZ041,85200.0
+31,Děčín,CZ0421,Ústecký kraj,CZ042,126294.0
+32,Chomutov,CZ0422,Ústecký kraj,CZ042,121480.0
+33,Litoměřice,CZ0423,Ústecký kraj,CZ042,117582.0
+34,Louny,CZ0424,Ústecký kraj,CZ042,85381.0
+35,Most,CZ0425,Ústecký kraj,CZ042,106773.0
+36,Teplice,CZ0426,Ústecký kraj,CZ042,124472.0
+37,Ústí nad Labem,CZ0427,Ústecký kraj,CZ042,116916.0
+38,Česká Lípa,CZ0511,Liberecký kraj,CZ051,101962.0
+39,Jablonec nad Nisou,CZ0512,Liberecký kraj,CZ051,90171.0
+40,Liberec,CZ0513,Liberecký kraj,CZ051,
+41,Semily,CZ0514,Liberecký kraj,CZ051,71547.0
+42,Hradec Králové,CZ0521,Královéhradecký kraj,CZ052,162400.0
+43,Jičín,CZ0522,Královéhradecký kraj,CZ052,78713.0
+44,Náchod,CZ0523,Královéhradecký kraj,CZ052,107973.0
+45,Rychnov nad Kněžnou,CZ0524,Královéhradecký kraj,CZ052,78424.0
+46,Trutnov,CZ0525,Královéhradecký kraj,CZ052,115073.0
+47,Chrudim,CZ0531,Pardubický kraj,CZ053,103746.0
+48,Pardubice,CZ0532,Pardubický kraj,CZ053,172224.0
+49,Svitavy,CZ0533,Pardubický kraj,CZ053,102866.0
+50,Ústí nad Orlicí,CZ0534,Pardubický kraj,CZ053,135682.0
+51,Havlíčkův Brod,CZ0631,Kraj Vysočina,CZ063,93692.0
+52,Jihlava,CZ0632,Kraj Vysočina,CZ063,112415.0
+53,Pelhřimov,CZ0633,Kraj Vysočina,CZ063,71571.0
+54,Třebíč,CZ0634,Kraj Vysočina,CZ063,109183.0
+55,Žďár nad Sázavou,CZ0635,Kraj Vysočina,CZ063,117164.0
+56,Blansko,CZ0641,Jihomoravský kraj,CZ064,107912.0
+57,Brno-město,CZ0642,Jihomoravský kraj,CZ064,379466.0
+58,Brno-venkov,CZ0643,Jihomoravský kraj,CZ064,225514.0
+59,Břeclav,CZ0644,Jihomoravský kraj,CZ064,114801.0
+60,Hodonín,CZ0645,Jihomoravský kraj,CZ064,151096.0
+61,Vyškov,CZ0646,Jihomoravský kraj,CZ064,92317.0
+62,Znojmo,CZ0647,Jihomoravský kraj,CZ064,113462.0
+63,Jeseník,CZ0711,Olomoucký kraj,CZ071,36752.0
+64,Olomouc,CZ0712,Olomoucký kraj,CZ071,233588.0
+65,Prostějov,CZ0713,Olomoucký kraj,CZ071,107580.0
+66,Přerov,CZ0714,Olomoucký kraj,CZ071,126613.0
+67,Šumperk,CZ0715,Olomoucký kraj,CZ071,118397.0
+68,Kroměříž,CZ0721,Zlínský kraj,CZ072,103445.0
+69,Uherské Hradiště,CZ0722,Zlínský kraj,CZ072,139829.0
+70,Vsetín,CZ0723,Zlínský kraj,CZ072,140171.0
+71,Zlín,CZ0724,Zlínský kraj,CZ072,188987.0
+72,Bruntál,CZ0801,Moravskoslezský kraj,CZ080,89547.0
+73,Frýdek-Místek,CZ0802,Moravskoslezský kraj,CZ080,212347.0
+74,Karviná,CZ0803,Moravskoslezský kraj,CZ080,240319.0
+75,Nový Jičín,CZ0804,Moravskoslezský kraj,CZ080,149919.0
+76,Opava,CZ0805,Moravskoslezský kraj,CZ080,173753.0
+77,Ostrava-město,CZ0806,Moravskoslezský kraj,CZ080,312104.0

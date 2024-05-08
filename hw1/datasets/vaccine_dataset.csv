@@ -1,0 +1,15 @@
+vaccine,country of origin,technology,storage temperature
+"Vakcína Pfizer–BioNTech proti covidu-19 ( Comirnaty ) BioNTech , Pfizer , Fosun Pharma","Spojené státy americké, Německo","genová, RNA vakcína, lipid. nanočástice",−70 °C
+"Vakcína Moderna proti covidu-19 ( Spikevax )  Moderna , NIAID, BARDA, CEPI",Spojené státy americké,"genová, RNA vakcína, lipid. nanočástice",−20 °C
+"Vakcína Oxford–AstraZeneca proti covidu-19  (Vaxzevria, Covishield)  Oxfordská univerzita , AstraZeneca , CEPI",Spojené království,"rekombinantní, modif. šimpanzí adenovirus ChAdOx1",+2 až +8 °C
+Sputnik V  (Gam-COVID-Vac) Gamalejův institut,Rusko,"rekombinantní, lidský adenovirus Ad26 a Ad5",+2 až +8 °C
+CoronaVac  Sinovac,Čína,"chemicky inaktivovaný kompletní virus SARS-CoV-2, hydroxid hlinitý jako adjuvans",+2 až +8 °C
+"BBIBP-CorV  Sinopharm : Pekingský institut biologických produktů, Wuchanský institut biologických produktů",Čína,"chemicky inaktivovaný kompletní virus SARS-CoV-2, hydroxid hlinitý jako adjuvans",+2 až +8 °C
+"BBV152 (Covaxin)  Bharat Biotech, Indická rada lékařského výzkumu",Indie,"chemicky inaktivovaný kompletní virus SARS-CoV-2, adjuvovaná",+2 až +8 °C
+"Ad5-nCoV  (Convidicea)  CanSino Biologics, Pekingský biotechnologický institut Akademie vojenských lékařských věd",Čína,"rekombinantní, lidský adenovirus Ad5",
+EpiVacCorona (ЭпиВакКорона)  Vector,Rusko,peptidová vakcína,
+Vakcína Johnson & Johnson proti covidu-19 Janssen Pharmaceuticals ( Johnson & Johnson ),Spojené státy americké,"rekombinantní, lidský adenovirus Ad26",+2 až +8 °C
+CoviVac Výzkumné centrum Michaila Čumakova,Rusko,chemicky inaktivovaný kompletní virus SARS-CoV-2,
+ZF2001  (RBD-Dimer) Anhui Zhifei Longcom Biopharmaceutical Co. Ltd.,Čína,peptidová vakcína,2–8 °C
+WIBP-CorV Sinopharm,Čína,chemicky inaktivovaný kompletní virus SARS-CoV-2,
+QazCovid-in Výzkumný ústav pro problémy biologické bezpečnosti,Kazachstán,chemicky inaktivovaný kompletní virus SARS-CoV-2,
